@@ -8,8 +8,8 @@ Welcome to 241209 .NET training! Here you'll find useful information for this tr
 - Trainer: Kung Lo(kungyang.lo@revature.com)
 
 ## <a name="links"></a>Useful Links
-- <a href="" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
-- <a href="" target="_blank" rel="noopener noreferrer">Teams Meeting Link</a>: We meet here every workday 9a-5p ET
+- <a href="https://github.com/241209-NET/trainer-code" target="_blank" rel="noopener noreferrer">Trainer Code</a>: Github repository for all demo's/notes, as well as project specs
+- <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2JjNzY1NzMtYzc1Yy00YTAwLWI0YzAtNTBlM2UwZWZiYmRh%40thread.v2/0?context=%7b%22Tid%22%3a%226b63e28a-a8f9-47b5-aa40-97e231215164%22%2c%22Oid%22%3a%22ef40319c-3307-48d0-a7fb-16ed9eafb5c2%22%7d" target="_blank" rel="noopener noreferrer">Teams Meeting Link</a>: We meet here every workday 9a-5p ET
 - <a href="https://app.revature.com" target="_blank" rel="noopener noreferrer">Revature Pro("RevPro")</a>: Find Recordings, Curriculum, Quizzes and other assessments here
 - <a href="https://help.revature.com/s/" target="_blank" rel="noopener noreferrer">HR Portal</a>: Submit HR ticket via this portal
 - <a href="mailto:kungyang.lo@revature.com" target="_blank" rel="noopener noreferrer">Email Kung</a> kungyang.lo@revature.com: For absences. For training content related questions please bring them up during training or message me on Teams
