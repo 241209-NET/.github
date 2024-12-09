@@ -2,11 +2,6 @@
 
 Welcome to 241209 .NET training! Here you'll find useful information for this training.
 
-## Table of Contents
-- [General Training Information](#general)
-- [Useful Links](#links)
-- [Project Specs](#projects)
-- [Software Install Links](#installs)
 ## <a name="general"></a>General Training Information
 - Duration: 12/09/24 - 01/31/2025 (8 weeks)
 - Work Hours: M-F 9AM - 5PM, Eastern Time. Lunch 12 - 1PM
