@@ -1,6 +1,6 @@
 # 241209-NET
 
-Welcome to 241209 .NET training! Here you'll find useful information for this training.
+Welcome to the 241209 .NET training! Here you'll find useful information for this training.
 
 ## <a name="general"></a>General Training Information
 - Duration: 12/09/24 - 01/31/2025 (8 weeks)
