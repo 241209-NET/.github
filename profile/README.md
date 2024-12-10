@@ -18,6 +18,7 @@ Welcome to the 241209 .NET training! Here you'll find useful information for thi
 - <a href="mailto:qc@revature.com" target="_blank" rel="noopener noreferrer">Email QC</a> qc@revature.com: For any assessment related queries. *feel free to cc me*
 
 ## <a name="projects"></a>Project Specs
+- [P0]Mini-Project(https://github.com/241209-NET/trainer-code/blob/main/Week1/MiniProject.md)
 - [P1]()TBA
 - [P2]()TBA
 - [P3]()TBA
