@@ -19,7 +19,7 @@ Welcome to the 241209 .NET training! Here you'll find useful information for thi
 
 ## <a name="projects"></a>Project Specs
 - [P0 Mini-Project](https://github.com/241209-NET/trainer-code/blob/main/Project_Specs/MiniProject.md)
-- [P1]()TBA
+- [P1](https://github.com/241209-NET/trainer-code/blob/main/Project_Specs/P1.md)
 - [P2]()TBA
 - [P3]()TBA
 ## <a name="installs"></a>Software Install Links
