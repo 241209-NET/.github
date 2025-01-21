@@ -21,7 +21,7 @@ Welcome to the 241209 .NET training! Here you'll find useful information for thi
 - [P0 Mini-Project](https://github.com/241209-NET/trainer-code/blob/main/Project_Specs/MiniProject.md)
 - [P1](https://github.com/241209-NET/trainer-code/blob/main/Project_Specs/P1.md)
 - [P2](https://github.com/241209-NET/trainer-code/blob/main/Project_Specs/P2.md)
-- [P3]()TBA
+- [P3](https://github.com/241209-NET/trainer-code/blob/main/Project_Specs/P3.md)
 ## <a name="installs"></a>Software Install Links
 Install the following software by the day listed below.
 ### Week 1 Day 1 (09/30/24)
